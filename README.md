@@ -50,6 +50,9 @@ SC(Stamina Cost) = 2Time (in seconds)
   - Damage       : Poision : 60 per second, Teeth : 100
 
 **Armor Attributes**
+
+// Callculations are based on base stats
+
   >**Armor Each Piece Lv1**
   - Health       : +5% = 105
   - Regeneration : +5% = 5.25
@@ -62,3 +65,9 @@ SC(Stamina Cost) = 2Time (in seconds)
   - Defence      : +10% = 11
   - Damage       : +10% = 11
   - Stamina      : +10% = 110
+  >**Armor Each Piece**
+  - Health       :
+  - Regeneration :
+  - Defence      :
+  - Dameage      :
+  - Stamina      : 
