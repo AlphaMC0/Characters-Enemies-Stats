@@ -2,12 +2,14 @@
 DT(Damage Taken) = Def/100 X Enemies damage 
 SC(Stamina Cost) = 2Time (in seconds)
 // Default
+
 -**Player**:
 - Health       : 100
 - Regeneration : 5 hps
 - Defence      : 10 
 - Damage       : 10
-- Stamina      : 100 (Stamina is used when sprinting) 
+- Stamina      : 100 (Stamina is used when sprinting)
+  
 -**Enemies**
   >**Anglerox**
   - Health       : 500
@@ -44,6 +46,7 @@ SC(Stamina Cost) = 2Time (in seconds)
   - Regeneration : 10 hps
   - Defence      : 100
   - Damage       : Poision : 60 per second, Teeth : 100
+
 -**Armor Attributes**
   >**Armor Each Piece Lv1**
   - Health       : +5% = 105
