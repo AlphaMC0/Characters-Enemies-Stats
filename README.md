@@ -8,7 +8,7 @@ SC(Stamina Cost) = 2Time (in seconds)
 - Defence      : 10 
 - Damage       : 10
 - Stamina      : 100 (Stamina is used when sprinting) 
-**Enemies**
+-**Enemies**
   >**Anglerox**
   - Health       : 500
   - Regeneration : 0 hps
@@ -44,7 +44,7 @@ SC(Stamina Cost) = 2Time (in seconds)
   - Regeneration : 10 hps
   - Defence      : 100
   - Damage       : Poision : 60 per second, Teeth : 100
-**Armor Attributes**
+-**Armor Attributes**
   >**Armor Each Piece Lv1**
   - Health       : +5% = 105
   - Regeneration : +5% = 5.25
