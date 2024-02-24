@@ -9,12 +9,12 @@ SC(Stamina Cost) = 2Time (in seconds)
   - Damage       : 10
   - Stamina      : 100 (Stamina is used when sprinting) 
 -**Enemies**
-  >**Anglerox**
+>**Anglerox**
     - Health       : 500
     - Regeneration : 0 hps
     - Defence      : 50
     - Damage       : 50
-  >**Arack**
+>**Arack**
     - Health       : 250
     - Regeneration : 0 hps
     - Defence      : 40
