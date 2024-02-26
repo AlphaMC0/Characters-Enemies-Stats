@@ -1,4 +1,4 @@
-# Characters-Enemies
+# Characters-Enemies-Stats
 DT(Damage Taken) = Def/100 X Enemies damage 
 
 SC(Stamina Cost) = 2Time (in seconds)
