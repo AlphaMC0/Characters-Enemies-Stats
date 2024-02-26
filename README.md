@@ -3,7 +3,7 @@ DT(Damage Taken) = Def/100 X Enemies damage
 
 SC(Stamina Cost) = 2Time (in seconds)
 
-// Default
+# Default
 
 **Player**:
 - Health       : 100
@@ -51,7 +51,7 @@ SC(Stamina Cost) = 2Time (in seconds)
 
 **Armor Attributes**
 
-// Callculations are based on base stats
+# Callculations are based on base stats
 
   >**Armor Each Piece Lv1**
   - Health       : +15% = 105
