@@ -43,7 +43,7 @@ SC(Stamina Cost) = 2Time (in seconds)
   - Regeneration : 5 hps
   - Defence      : 30
   - Damage       : Poision : 30 per second
-  >**Ursacetus**
+  >**Ursacetus** (ur-sac-e-tus)
   - Health       : 1000
   - Regeneration : 10 hps
   - Defence      : 100
@@ -54,20 +54,26 @@ SC(Stamina Cost) = 2Time (in seconds)
 // Callculations are based on base stats
 
   >**Armor Each Piece Lv1**
-  - Health       : +5% = 105
-  - Regeneration : +5% = 5.25
-  - Defence      : +5% = 10.5
-  - Damage       : +5% = 10.5
-  - Stamina      : +5% = 105
+  - Health       : +15% = 105
+  - Regeneration :   +2 = 7
+  - Defence      : +15% = 10.5
+  - Damage       : +15% = 10.5
+  - Stamina      : +15% = 105
   >**Armor Each Piece Lv2**
-  - Health       : +10% = 110
-  - Regeneration : +10% = 5.5
-  - Defence      : +10% = 11
-  - Damage       : +10% = 11
-  - Stamina      : +10% = 110
-  >**Armor Each Piece**
-  - Health       :
-  - Regeneration :
-  - Defence      :
-  - Dameage      :
-  - Stamina      : 
+  - Health       : +75% = 175
+  - Regeneration :  +3  = 8
+  - Defence      : +75% = 17.5
+  - Damage       : +75% = 17.5
+  - Stamina      : +75% = 175
+  >**Armor Each Piece Lv3**
+  - Health       : 150% = 150
+  - Regeneration :   +4 = 9
+  - Defence      : 150% = 15
+  - Damage       : 150% = 15
+  - Stamina      : 150% = 150
+  >**Armor Each Piece Lv4**
+  - Health       : 300% = 300
+  - Regeneration :   +5 = 10
+  - Defence      : 300% = 30
+  - Damage       : 300% = 30
+  - Stamina      : 300% = 300
