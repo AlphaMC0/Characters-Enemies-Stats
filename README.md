@@ -55,25 +55,25 @@ SC(Stamina Cost) = 2Time (in seconds)
 
   >**Armor Each Piece Lv1**
   - Health       : +15% = 105
-  - Regeneration :   +2 = 7
+  - Regeneration :  +2 = 7
   - Defence      : +15% = 10.5
   - Damage       : +15% = 10.5
   - Stamina      : +15% = 105
   >**Armor Each Piece Lv2**
   - Health       : +75% = 175
-  - Regeneration :  +3  = 8
+  - Regeneration : +3  = 8
   - Defence      : +75% = 17.5
   - Damage       : +75% = 17.5
   - Stamina      : +75% = 175
   >**Armor Each Piece Lv3**
   - Health       : 150% = 150
-  - Regeneration :   +4 = 9
+  - Regeneration :  +4 = 9
   - Defence      : 150% = 15
   - Damage       : 150% = 15
   - Stamina      : 150% = 150
   >**Armor Each Piece Lv4**
   - Health       : 300% = 300
-  - Regeneration :   +5 = 10
+  - Regeneration :  +5 = 10
   - Defence      : 300% = 30
   - Damage       : 300% = 30
   - Stamina      : 300% = 300
